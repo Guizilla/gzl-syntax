@@ -1,0 +1,19 @@
+{
+  "name": "gzl-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The blackest minimalist syntax theme for Atom.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "black",
+    "basic",
+    "simple",
+    "minimalist"
+  ],
+  "repository": "https://github.com/Guizilla/gzl-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

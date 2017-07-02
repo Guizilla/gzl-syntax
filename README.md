@@ -15,8 +15,13 @@ This is some example of coloration.
 ![](https://www.guizilla.net/wp-content/uploads/github/gzlscgzlthsyntax5.png)
 
 ## JavaScript
-![](https://www.guizilla.net/wp-content/uploads/gith
-ub/gzlscgzlthsyntax2.png)
+![](https://www.guizilla.net/wp-content/uploads/github/gzlscgzlthsyntax2.png)
 
 ## PHP
 ![](https://www.guizilla.net/wp-content/uploads/github/gzlscgzlthsyntax1.png)
+
+## Font
+
+![](https://www.guizilla.net/wp-content/uploads/github/gzlscgzlthsyntax4.png)
+
+For those who want to know which font I use for my syntax theme. It is San Francisco Mono by Apple.

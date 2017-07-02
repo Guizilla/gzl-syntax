@@ -1,11 +1,12 @@
 {
   "name": "gzl-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The blackest minimalist syntax theme for Atom.",
   "keywords": [
     "syntax",
     "theme",
+	"essential",
     "black",
     "basic",
     "simple",
